@@ -9,12 +9,22 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/router": "^1.6.1",
+    "better-vue-input-tag": "^1.1.0",
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.8.3",
-    "nuxt": "^2.14.12"
+    "node-sass": "^5.0.0",
+    "nuxt": "^2.14.12",
+    "sass-loader": "^10.1.1",
+    "v-form": "^2.3.5",
+    "vform": "^1.0.1",
+    "vue2-google-maps-withscopedautocomp": "^0.12.1"
   },
   "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-prettier": "^3.3.1",
     "prettier": "^2.2.1"
